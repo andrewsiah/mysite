@@ -1,0 +1,155 @@
+baseURL: "https://andrewsiah.com/"
+title: Andrew Siah
+paginate: 10
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+fontSize: 20
+
+disqusShortname: andrewsiah
+
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Blog
+          url: /archive/
+          weight: 5
+        - name: About
+          url: /about/
+          weight: 2
+        - name: Topic
+          url: /tags/
+          weight: 10
+    # profileMode:
+    #   enabled: true
+    #   subtitle: Welcome to my crib on the internet.
+    
+    # Title: "Hi there! \U0001F44B"
+    # homeInfoParams:
+    #   Content: >
+    #     Welcome to demo of hugo's theme PaperMod.
+    #     - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      
+
+  # l2:
+  #   languageName: "About"
+  #   weight: 2
+  #   title: Andrew Siah
+  #   profileMode:
+  #     enabled: true
+  #     title: Andrew Siah
+  #     # imageUrl: "#"
+  #     # imageTitle: my image
+  #     # imageWidth: 120
+  #     # imageHeight: 120
+  #     subtitle: "Learning, Writing, Recording."
+  #     buttons:
+  #       - name: Blog
+  #         url: blog
+  #       - name: Tags
+  #         url: tags
+  #     menu:
+  #       main:
+  #         - name: Archives
+  #           url: /archives/
+  #           weight: 5
+  #         - name: Tags
+  #           url: /tags/
+  #           weight: 10
+
+  # l3:
+  #   languageName: "Langrtl"
+  #   languagedirection: rtl
+  #   weight: 3
+  #   title: PaperMod RTL
+  #   homeInfoParams:
+  #     Title: "Hi there \U0001F44B"
+  #     Content: Welcome to RTL layout
+
+params:
+  env: production
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Theme PaperMod
+  # author: ["Me", "You"] # multiple authors
+  ShowReadingTime: true
+  defaultTheme: auto
+  ShowShareButtons: true
+  displayFullLangName: true
+  comment: true
+  disqusShortname: andrewsiah
+  # images: ""
+  # assets:
+  #   favicon: '<path / external url>'
+
+  profileMode:
+    enabled: false
+    title: Andrew Siah
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Hi There! \U0001F44B"
+    Content: >
+      I'm Andrew, a physics student curious about one too many things.
+      Documenting my learning process in my [youtube channel](https://www.youtube.com/channel/UCArkjd2N67xLjEedPiqTOEg?view_as=subscriber)
+      and [here](/archive).
+
+      
+  socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCArkjd2N67xLjEedPiqTOEg?view_as=subscriber"
+    - name: twitter
+      url: "https://twitter.com/AndrewWeiTung"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/andrewsiah/"
+    - name: github
+      url: "https://github.com/andrewsiah"
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/andrewsiah"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+
