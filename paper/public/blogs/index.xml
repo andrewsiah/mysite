@@ -5,9 +5,50 @@
     <link>https://andrewsiah.com/blogs/</link>
     <description>Recent content in Blogs on Andrew Siah</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>On Marriage</title>
+      <title>MEMSI 2021</title>
+      <link>https://andrewsiah.com/blogs/memsi-2021/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/memsi-2021/</guid>
+      <description>Preface MEMSI is not a hackathon. MEMSI is not a business case competition. Heck, MEMSI does not even have monetary or opportunity prizes. No. The goal of MEMSI is to educate what entrepreneurship is like through simulation, immersing into one industry (for my year, it&amp;rsquo;s the aviation), and using the framework of Disciplined Entrepreneurship.
+Teammates MEMSI filters their participants. There&amp;rsquo;s a simple interview and threshold one must pass (Year 3 and above).</description>
+    </item>
+    
+    <item>
+      <title>SMARTP goals</title>
+      <link>https://andrewsiah.com/blogs/smartp-goals/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/smartp-goals/</guid>
+      <description>The importance of setting goals  Fail to plan, Plan to fail.
+ I first heard the above quote when I was in high school, sometime around when I was 13. It sounded like a truism, then again, one that I intuitively related with. We don&amp;rsquo;t achieve goals we didn&amp;rsquo;t set out for. Running on the premises that:
+ Life is filled with temptations and short-term candies Forgoing short-term temptations to put in effort takes conscious effort Any goals that are worth achieving requires effort and investment  Then, planning or setting goals is the battleplan to success.</description>
+    </item>
+    
+    <item>
+      <title>The Moral Imperative to Show our Work</title>
+      <link>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</guid>
+      <description>Impostor Syndrome I struggle with impostor syndrome. Through this blog, youtube, and meeting others, I&amp;rsquo;ve always felt that it&amp;rsquo;s not in my place to contribute.
+ &amp;ldquo;Who am I to speak here? There are better people out there who are more qualified, more helpful, and more charismatic than me.&amp;rdquo;
+ The plot twist Recently, I stumbled upon an argument on why it&amp;rsquo;s our moral imperative to actually show our work. The premises are there</description>
+    </item>
+    
+    <item>
+      <title>Habits or Passion</title>
+      <link>https://andrewsiah.com/blogs/habits-vs-passion/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/habits-vs-passion/</guid>
+      <description>Preface It&amp;rsquo;s been 2 months since I last published here and on youtube. What happened in that timeframe? I met great friends in ipoh, went to Jing Wei&amp;rsquo;s marriage, started developing my work site, and played chess (Loads of chess). Am I happy? Is that enough?</description>
+    </item>
+    
+    <item>
+      <title>On Marriage. What it simply is &amp; what it takes.</title>
       <link>https://andrewsiah.com/blogs/on-marriage/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
@@ -33,33 +74,6 @@ For an example, assume you want to explore asking an opposite gender out. The be
       <guid>https://andrewsiah.com/blogs/show-your-work/</guid>
       <description>Through my two years of studying at university, I have been graced with many opportunities. Friends who I scored Hackathons with; mentors who guided me on professional and private life matters; gracious recommendation letters that I received for my work; and interviews for jobs and scholarships that I’ve gotten from mutual friends.
 What is the commonality above? That I have substance. Maybe not, I’m 100% sure there are many more out there who are more knowledgeable, with better GPA and a CV 10,000 lumen brighter than mine.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://andrewsiah.com/blogs/test-copy-4/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewsiah.com/blogs/test-copy-4/</guid>
-      <description>Hello this is a test.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://andrewsiah.com/blogs/test-copy/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewsiah.com/blogs/test-copy/</guid>
-      <description>Hello this is a test.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://andrewsiah.com/blogs/test/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewsiah.com/blogs/test/</guid>
-      <description>Hello this is a test.</description>
     </item>
     
   </channel>

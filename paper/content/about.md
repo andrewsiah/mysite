@@ -33,6 +33,7 @@ If you're here in a professional capacity, here is my
 
 ## My List of Lists
 - [Now](/lists/now)
+- [Books](/lists/books)
 - [Impossible Lists](/lists/impossible/)
 - [Startup Ideas](https://www.notion.so/andrewsiah/Projects-af4d8e74c116437d898df97b749a34cd)
 - [Thank You](/lists/thankyou/)

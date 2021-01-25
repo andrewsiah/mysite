@@ -41,3 +41,12 @@ disableShare: true
 - scrcpy
 - hugo
 - django
+
+### GeoDjango Dependencies
+- postgresql
+- postgis
+- gdal
+- libgeoip
+- spatialite-tools (if geodjango used with sqlite3)
+
+[Catalina Link](https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12)

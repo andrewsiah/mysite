@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewsiah.com/cheatsheet/pipenv/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewsiah.com/checklist/badminton/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
@@ -20,6 +25,11 @@
   <url>
     <loc>https://andrewsiah.com/checklist/travel-to-pack/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/lists/questions/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -47,6 +57,26 @@
   </url>
   
   <url>
+    <loc>https://andrewsiah.com/blogs/memsi-2021/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/blogs/smartp-goals/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/blogs/habits-vs-passion/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewsiah.com/blogs/on-marriage/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
@@ -63,21 +93,51 @@
   
   <url>
     <loc>https://andrewsiah.com/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andrewsiah.com/blogs/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewsiah.com/tags/relationship/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <loc>https://andrewsiah.com/tags/goal/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/tags/habit/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/tags/reflect/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andrewsiah.com/tags/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/tags/share/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/lists/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/cheatsheet/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewsiah.com/tags/relationship/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -92,28 +152,7 @@
   </url>
   
   <url>
-    <loc>https://andrewsiah.com/tags/test/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewsiah.com/blogs/test-copy-4/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewsiah.com/blogs/test-copy/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewsiah.com/blogs/test/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewsiah.com/tags/share/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+    <loc>https://andrewsiah.com/cheatsheet/markdown/</loc>
   </url>
   
   <url>
@@ -122,10 +161,6 @@
   
   <url>
     <loc>https://andrewsiah.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://andrewsiah.com/lists/</loc>
   </url>
   
   <url>

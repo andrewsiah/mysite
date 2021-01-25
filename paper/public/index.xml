@@ -5,7 +5,16 @@
     <link>https://andrewsiah.com/</link>
     <description>Recent content on Andrew Siah</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pipenv Cheatsheet</title>
+      <link>https://andrewsiah.com/cheatsheet/pipenv/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/cheatsheet/pipenv/</guid>
+      <description>Pipenv Cheat Sheet by Brad Traversy Install pipenv pip3 install pipenv Activate pipenv shell Check version of Python python --version Check path python &amp;gt;&amp;gt;&amp;gt; import sys &amp;gt;&amp;gt;&amp;gt; sys.executable quit() Install a package pipenv install camelcase Check local packages pipenv lock -r Uninstall a package pipenv uninstall camelcase Install a dev package pipenv install nose --dev Install from requirements.txt pipenv install -r ./requirements.txt Check security vulnerabilities pipenv check Check dependency graph pipenv graph Ignore pipfile pipenv install --ignore-pipfile Set lockfile - before deployment pipenv lock Exiting the virtualenv exit Run with pipenv pipenv run * </description>
+    </item>
+    
     <item>
       <title>Badminton To Bring</title>
       <link>https://andrewsiah.com/checklist/badminton/</link>
@@ -21,7 +30,7 @@
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://andrewsiah.com/checklist/apps/</guid>
-      <description>Mac Apps  Ticktick Firefox Conda Kite Cisco anyconnect vpn Vscode Rectangle Backup and sync from google Zoom uTorrent web Spotify Whatsapp Soundcleod Selfcontrol imovie Discord vlc keepassxc Quickshade Notion  Brew  firebase git qt sass scrcpy hugo django  </description>
+      <description>Mac Apps  Ticktick Firefox Conda Kite Cisco anyconnect vpn Vscode Rectangle Backup and sync from google Zoom uTorrent web Spotify Whatsapp Soundcleod Selfcontrol imovie Discord vlc keepassxc Quickshade Notion  Brew  firebase git qt sass scrcpy hugo django  GeoDjango Dependencies  postgresql postgis gdal libgeoip spatialite-tools (if geodjango used with sqlite3)  Catalina Link</description>
     </item>
     
     <item>
@@ -40,6 +49,15 @@
       
       <guid>https://andrewsiah.com/checklist/travel-to-pack/</guid>
       <description> Currency Cash Misceallanous in To-Do List Clothes &amp;amp; Pants &amp;amp; Socks Underwear Cold weather wear Shoes/Slippers Skin Care Laundry Plastic Bag Towel Toiletries Laptop &amp;amp; Phone Charger Laptop &amp;amp; iPad Travel Adaptors Home Key &amp;amp; Cards Sim Card  </description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>https://andrewsiah.com/lists/questions/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/lists/questions/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -63,7 +81,7 @@ I&amp;rsquo;ll love to make new friends, please reach out to me for anything!</d
       <guid>https://andrewsiah.com/lists/books/</guid>
       <description>Non-Fiction Read My notes are automatically generated from Play Books.
 Highlights - Red: To apply in life. Yellow: Resonating notes. Green: Vocabulary to revise on.
- Deep Work - Cal Newport Atomic Habits - James Clear Getting Things Done - David Allen Courage to be Disliked - Ichiro Kishimi The Checklist Manifesto - Atul Gawande  I have a compiled list of checklists here   Essentialism - Greg Mckeown Show Your Work - Austin Kleon How To Be Miserable - Randy J.</description>
+ Deep Work - Cal Newport  A manifesto that argues how long duration of focused work will be a rare and valuable commodity. Especially in an upcoming world where it&amp;rsquo;s easier for everyone to be distracted (Social Media, Netflix, Youtube, etc).   Atomic Habits - James Clear  Argues that greatness comes from consistent grinding.</description>
     </item>
     
     <item>
@@ -106,7 +124,48 @@ The list and detail below is by no means complete – not even close. It is my s
     </item>
     
     <item>
-      <title>On Marriage</title>
+      <title>MEMSI 2021</title>
+      <link>https://andrewsiah.com/blogs/memsi-2021/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/memsi-2021/</guid>
+      <description>Preface MEMSI is not a hackathon. MEMSI is not a business case competition. Heck, MEMSI does not even have monetary or opportunity prizes. No. The goal of MEMSI is to educate what entrepreneurship is like through simulation, immersing into one industry (for my year, it&amp;rsquo;s the aviation), and using the framework of Disciplined Entrepreneurship.
+Teammates MEMSI filters their participants. There&amp;rsquo;s a simple interview and threshold one must pass (Year 3 and above).</description>
+    </item>
+    
+    <item>
+      <title>SMARTP goals</title>
+      <link>https://andrewsiah.com/blogs/smartp-goals/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/smartp-goals/</guid>
+      <description>The importance of setting goals  Fail to plan, Plan to fail.
+ I first heard the above quote when I was in high school, sometime around when I was 13. It sounded like a truism, then again, one that I intuitively related with. We don&amp;rsquo;t achieve goals we didn&amp;rsquo;t set out for. Running on the premises that:
+ Life is filled with temptations and short-term candies Forgoing short-term temptations to put in effort takes conscious effort Any goals that are worth achieving requires effort and investment  Then, planning or setting goals is the battleplan to success.</description>
+    </item>
+    
+    <item>
+      <title>The Moral Imperative to Show our Work</title>
+      <link>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</guid>
+      <description>Impostor Syndrome I struggle with impostor syndrome. Through this blog, youtube, and meeting others, I&amp;rsquo;ve always felt that it&amp;rsquo;s not in my place to contribute.
+ &amp;ldquo;Who am I to speak here? There are better people out there who are more qualified, more helpful, and more charismatic than me.&amp;rdquo;
+ The plot twist Recently, I stumbled upon an argument on why it&amp;rsquo;s our moral imperative to actually show our work. The premises are there</description>
+    </item>
+    
+    <item>
+      <title>Habits or Passion</title>
+      <link>https://andrewsiah.com/blogs/habits-vs-passion/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/habits-vs-passion/</guid>
+      <description>Preface It&amp;rsquo;s been 2 months since I last published here and on youtube. What happened in that timeframe? I met great friends in ipoh, went to Jing Wei&amp;rsquo;s marriage, started developing my work site, and played chess (Loads of chess). Am I happy? Is that enough?</description>
+    </item>
+    
+    <item>
+      <title>On Marriage. What it simply is &amp; what it takes.</title>
       <link>https://andrewsiah.com/blogs/on-marriage/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
@@ -135,30 +194,12 @@ What is the commonality above? That I have substance. Maybe not, I’m 100% sure
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://andrewsiah.com/blogs/test-copy-4/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://andrewsiah.com/cheatsheet/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewsiah.com/blogs/test-copy-4/</guid>
-      <description>Hello this is a test.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://andrewsiah.com/blogs/test-copy/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewsiah.com/blogs/test-copy/</guid>
-      <description>Hello this is a test.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://andrewsiah.com/blogs/test/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewsiah.com/blogs/test/</guid>
-      <description>Hello this is a test.</description>
+      <guid>https://andrewsiah.com/cheatsheet/markdown/</guid>
+      <description></description>
     </item>
     
     <item>
