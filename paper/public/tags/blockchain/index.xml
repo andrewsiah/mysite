@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blockchain on Andrew Siah</title>
+    <link>https://andrewsiah.com/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Andrew Siah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reimagining an affordable Blockchain-based Insurance</title>
+      <link>https://andrewsiah.com/blogs/blockchain-insurance/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/blockchain-insurance/</guid>
+      <description>Insurance Origin of Insurance You’re a sailor in 17th century Great Britain. Sailing the 7 seas for gold, gospel, and glory. Yet with all the treasures and adventure of sailing, it came with significant risks. With pirates lurking around for booties, lousy hygiene on board, terrible treatment to most sailors, unpredictable storms, and little to no healthcare on board, it’s not far-fetch to say a significant amount of sailors don’t return alive.</description>
+    </item>
+    
+  </channel>
+</rss>

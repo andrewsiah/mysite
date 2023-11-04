@@ -1,7 +1,7 @@
 ---
 title: "Why You Should Show Your Work"
 date: 2020-09-04
-weight: 5
+weight: 7
 description: "A post on why showing our work on the internet is the most powerful form of networking"
 slug: "show-your-work"
 keywords: ['Share']

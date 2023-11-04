@@ -21,7 +21,9 @@ I've never been the smartest or the most talented in anything. I'm just curious 
 
 This is my favourite emoji :man_shrugging:. 
 
-I'm currently on a gap year, till Sept 2021, documenting my autodidacy on Youtube and here. 
+I love documenting my learnings on Youtube and here. 
+
+I did a gap year from 2020 - Sept 2021, while documenting my autodidacy on Youtube and here.
 
 I'll love to make new friends, please reach out to me for anything! (hi@andrewsiah.com)
 
@@ -39,9 +41,3 @@ If you're here in a professional capacity, here is my
 - [Thank You](/lists/thankyou/)
 - [Habits](/lists/habits/)
 - [Failures](https://sites.google.com/view/failurecv/home)
-
-
-
-
-
-

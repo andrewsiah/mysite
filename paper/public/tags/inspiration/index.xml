@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Inspiration on Andrew Siah</title>
+    <link>https://andrewsiah.com/tags/inspiration/</link>
+    <description>Recent content in Inspiration on Andrew Siah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passion is a Woodfire</title>
+      <link>https://andrewsiah.com/blogs/passion-woodfire/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/passion-woodfire/</guid>
+      <description>Exploring the nature of passion as an ignitable and sustainable force</description>
+    </item>
+    
+  </channel>
+</rss>

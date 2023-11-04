@@ -1,77 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Andrew Siah</title>
     <link>https://andrewsiah.com/blogs/</link>
     <description>Recent content in Blogs on Andrew Siah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewsiah.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Journey to 50 Sign-ups: A Documentation of Objective and Process</title>
-      <link>https://andrewsiah.com/blogs/journey-to-50-signups/</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://andrewsiah.com/blogs/journey-to-50-signups/</guid>
-      <description>Objective The purpose of this piece is to document our steps and the ultimate goal from ideation to acquiring 50 sign-ups in 2 weeks without any paid marketing efforts.
-The Journey Week 1 Ideation We sifted through a list of startup ideas, landing on one that felt timely and within our capabilities: helping people find their &amp;ldquo;average 5.&amp;rdquo; Interviews with friends helped refine the problem we aimed to solve.
-Landing Page We built and deployed a landing page using a template and firebase hosting, sharing it on productivity subreddits.</description>
+      <title>How crowded is Columbia Dining right now</title>
+      <link>https://andrewsiah.com/blogs/columbia-dining/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/columbia-dining/</guid>
+      <description>Find out here </description>
     </item>
+    
+    <item>
+      <title>Goal of Financial Freedom is not Idleness</title>
+      <link>https://andrewsiah.com/blogs/financial-freedom/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/financial-freedom/</guid>
+      <description>FIRE Today, one of the key goals I hear from my peers is the goal to FIRE (Financially independent, retire early). There have been many proponents of it, and many detractors as well. Yet, one of the main reasons we hear why people want to retire is so they can wake up whenever they want, eat whatever they want, and travel wherever they want. See the world and chill.
+Yet, we often hear from the other side that people who have reached FIRE find life to be dull, boring even, as if their life surmounts to nothing.</description>
+    </item>
+    
+    <item>
+      <title>How to work when you don&#39;t want to</title>
+      <link>https://andrewsiah.com/blogs/work-motivation/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/work-motivation/</guid>
+      <description>Working when unmotivated</description>
+    </item>
+    
     <item>
       <title>Adding P to SMART goals</title>
       <link>https://andrewsiah.com/blogs/smartp-goals/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewsiah.com/blogs/smartp-goals/</guid>
-      <description>The importance of setting goals Fail to plan, Plan to fail.
-I first heard the above quote when I was in high school, sometime around when I was 13. It sounded like a truism, then again, one that I intuitively related with. We don&amp;rsquo;t achieve goals we didn&amp;rsquo;t set out for. Running on the premises that:
-Life is filled with temptations and short-term candies Forgoing short-term temptations to put in effort takes conscious effort Any goals that are worth achieving requires effort and investment Then, planning or setting goals is the battleplan to success.</description>
+      <description>The P that makes SMART goals, SMARTP</description>
     </item>
+    
     <item>
       <title>MEMSI 2021</title>
       <link>https://andrewsiah.com/blogs/memsi-2021/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewsiah.com/blogs/memsi-2021/</guid>
-      <description>Preface MEMSI is not a hackathon. MEMSI is not a business case competition. Heck, MEMSI does not even have monetary or opportunity prizes. No. The goal of MEMSI is to educate what entrepreneurship is like through simulation, immersing into one industry (for my year, it&amp;rsquo;s the aviation), and using the framework of Disciplined Entrepreneurship.
-Teammates MEMSI filters their participants. There&amp;rsquo;s a simple interview and threshold one must pass (Year 3 and above).</description>
+      <description>A reflection on experience and lessons learnt through MEMSI 2021</description>
     </item>
+    
     <item>
       <title>The Moral Imperative to Show our Work</title>
-      <link>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</link>
+      <link>https://andrewsiah.com/blogs/show-our-work/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</guid>
-      <description>Impostor Syndrome I struggle with impostor syndrome. Through this blog, youtube, and meeting others, I&amp;rsquo;ve always felt that it&amp;rsquo;s not in my place to contribute.
-&amp;ldquo;Who am I to speak here? There are better people out there who are more qualified, more helpful, and more charismatic than me.&amp;rdquo;
-The plot twist Recently, I stumbled upon an argument on why it&amp;rsquo;s our moral imperative to actually show our work. The premises are there</description>
+      
+      <guid>https://andrewsiah.com/blogs/show-our-work/</guid>
+      <description>Why we Need to Document and Share our Work</description>
     </item>
+    
     <item>
       <title>Habits or Passion</title>
       <link>https://andrewsiah.com/blogs/habits-vs-passion/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewsiah.com/blogs/habits-vs-passion/</guid>
-      <description>Preface It&amp;rsquo;s been 2 months since I last published here and on youtube. What happened in that timeframe? I met great friends in ipoh, went to Jing Wei&amp;rsquo;s marriage, started developing my work site, and played chess (Loads of chess). Am I happy? Is that enough?</description>
+      <description>Are we better off being habitual, or doing what our passion lead us to</description>
     </item>
+    
     <item>
       <title>On Marriage. What it simply is &amp; what it takes.</title>
       <link>https://andrewsiah.com/blogs/on-marriage/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewsiah.com/blogs/on-marriage/</guid>
-      <description>The story As I stood on the side of the altar, observing my best friend stare down the aisle. Pianist starts playing Canon in D, and the bridesmaid leads the bride, gently and slowly, down the aisle. The bride and groom locks gaze, a pleasant smile hangs on their face. As the cousin of the bride and the bride reach the groom, the cousin hands the hand of the bride over to the groom.</description>
+      <description>The simple take on marriage.</description>
     </item>
+    
     <item>
       <title>Fear Setting (A Model on Tim Ferriss&#39;s Framework)</title>
       <link>https://andrewsiah.com/blogs/fear-setting/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewsiah.com/blogs/fear-setting/</guid>
-      <description>Introduction Our decision making process is often irrational. Because we often only have a method of rationalizing the costs and benefits, but no method for rationalizing fear.
-For an example, assume you want to explore asking an opposite gender out. The benefit, if successful, is being able to go out with the girl and know her better. The cost, if unsuccessful, is shame and time wasted from the rejection. Shame is temporal, exists larger in your imagination.</description>
+      <description>A framework for more rational decision making through understanding our fears.</description>
     </item>
+    
+    <item>
+      <title>Passion is a Woodfire</title>
+      <link>https://andrewsiah.com/blogs/passion-woodfire/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/passion-woodfire/</guid>
+      <description>Exploring the nature of passion as an ignitable and sustainable force</description>
+    </item>
+    
+    <item>
+      <title>Why I keep a List of my Failures.</title>
+      <link>https://andrewsiah.com/blogs/failure-cv/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/failure-cv/</guid>
+      <description>Discover how a &amp;#39;Failure CV&amp;#39; can objectively foster growth.</description>
+    </item>
+    
+    <item>
+      <title>Reimagining an affordable Blockchain-based Insurance</title>
+      <link>https://andrewsiah.com/blogs/blockchain-insurance/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/blockchain-insurance/</guid>
+      <description>Insurance Origin of Insurance You’re a sailor in 17th century Great Britain. Sailing the 7 seas for gold, gospel, and glory. Yet with all the treasures and adventure of sailing, it came with significant risks. With pirates lurking around for booties, lousy hygiene on board, terrible treatment to most sailors, unpredictable storms, and little to no healthcare on board, it’s not far-fetch to say a significant amount of sailors don’t return alive.</description>
+    </item>
+    
     <item>
       <title>Why You Should Show Your Work</title>
       <link>https://andrewsiah.com/blogs/show-your-work/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://andrewsiah.com/blogs/show-your-work/</guid>
-      <description>Through my two years of studying at university, I have been graced with many opportunities. Friends who I scored Hackathons with; mentors who guided me on professional and private life matters; gracious recommendation letters that I received for my work; and interviews for jobs and scholarships that I’ve gotten from mutual friends.
-What is the commonality above? That I have substance. Maybe not, I’m 100% sure there are many more out there who are more knowledgeable, with better GPA and a CV 10,000 lumen brighter than mine.</description>
+      <description>A post on why showing our work on the internet is the most powerful form of networking</description>
     </item>
+    
+    <item>
+      <title></title>
+      <link>https://andrewsiah.com/blogs/columbia_crowded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/columbia_crowded/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

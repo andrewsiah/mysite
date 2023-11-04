@@ -3,7 +3,7 @@ title: "The Moral Imperative to Show our Work"
 date: 2021-01-24
 weight: 5
 description: "Why we Need to Document and Share our Work"
-slug: "moral-imperative-to-show-our-work"
+slug: "show-our-work"
 keywords: ['Share']
 toc: false
 tags: ["share"]

@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewsiah.com/blogs/journey-to-50-signups/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <loc>https://andrewsiah.com/blogs/columbia-dining/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/cheatsheet/pipenv/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
@@ -35,13 +35,19 @@
   </url><url>
     <loc>https://andrewsiah.com/lists/thankyou/</loc>
   </url><url>
+    <loc>https://andrewsiah.com/blogs/financial-freedom/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/blogs/work-motivation/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andrewsiah.com/blogs/smartp-goals/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/blogs/memsi-2021/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andrewsiah.com/blogs/moral-imperative-to-show-our-work/</loc>
+    <loc>https://andrewsiah.com/blogs/show-our-work/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/blogs/habits-vs-passion/</loc>
@@ -53,25 +59,37 @@
     <loc>https://andrewsiah.com/blogs/fear-setting/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://andrewsiah.com/blogs/passion-woodfire/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/blogs/failure-cv/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/blogs/blockchain-insurance/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andrewsiah.com/blogs/show-your-work/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/blogs/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andrewsiah.com/tags/goal/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andrewsiah.com/tags/habit/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andrewsiah.com/tags/reflect/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+    <loc>https://andrewsiah.com/tags/life/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/tags/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/goal/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/habit/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/reflect/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewsiah.com/tags/share/</loc>
@@ -89,8 +107,31 @@
     <loc>https://andrewsiah.com/checklist/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://andrewsiah.com/tags/blockchain/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andrewsiah.com/tags/decision-making/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/growth/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/inspiration/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/insurance/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/lifestyle/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/reflection/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/tags/self-improvement/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewsiah.com/blogs/columbia_crowded/</loc>
   </url><url>
     <loc>https://andrewsiah.com/cheatsheet/markdown/</loc>
   </url><url>
