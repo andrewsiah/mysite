@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coding on Andrew Siah</title>
+    <link>https://andrewsiah.com/tags/coding/</link>
+    <description>Recent content in Coding on Andrew Siah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to debug Pytorch/Deep Learning in VSCode</title>
+      <link>https://andrewsiah.com/blogs/debugging-pytorch/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/debugging-pytorch/</guid>
+      <description>Debugging a PyTorch Script in Jupyter Notebook Here is a youtube guide video!
+Open the Notebook: Open your .ipynb file directly in VSCode. Insert Breakpoints: In the margin next to the cell numbers, click to set breakpoints. Start the Jupyter Server: If you haven&amp;rsquo;t already, start the Jupyter server by running a cell. Run the Cell in Debug Mode: Right-click on the cell with a breakpoint and select &amp;ldquo;Debug Cell&amp;rdquo; from the context menu.</description>
+    </item>
+    
+  </channel>
+</rss>

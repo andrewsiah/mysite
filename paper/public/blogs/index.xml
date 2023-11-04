@@ -6,7 +6,7 @@
     <description>Recent content in Blogs on Andrew Siah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How crowded is Columbia Dining right now</title>
       <link>https://andrewsiah.com/blogs/columbia-dining/</link>
@@ -24,6 +24,16 @@
       <guid>https://andrewsiah.com/blogs/financial-freedom/</guid>
       <description>FIRE Today, one of the key goals I hear from my peers is the goal to FIRE (Financially independent, retire early). There have been many proponents of it, and many detractors as well. Yet, one of the main reasons we hear why people want to retire is so they can wake up whenever they want, eat whatever they want, and travel wherever they want. See the world and chill.
 Yet, we often hear from the other side that people who have reached FIRE find life to be dull, boring even, as if their life surmounts to nothing.</description>
+    </item>
+    
+    <item>
+      <title>How to debug Pytorch/Deep Learning in VSCode</title>
+      <link>https://andrewsiah.com/blogs/debugging-pytorch/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewsiah.com/blogs/debugging-pytorch/</guid>
+      <description>Debugging a PyTorch Script in Jupyter Notebook Here is a youtube guide video!
+Open the Notebook: Open your .ipynb file directly in VSCode. Insert Breakpoints: In the margin next to the cell numbers, click to set breakpoints. Start the Jupyter Server: If you haven&amp;rsquo;t already, start the Jupyter server by running a cell. Run the Cell in Debug Mode: Right-click on the cell with a breakpoint and select &amp;ldquo;Debug Cell&amp;rdquo; from the context menu.</description>
     </item>
     
     <item>
@@ -123,15 +133,6 @@ Yet, we often hear from the other side that people who have reached FIRE find li
       
       <guid>https://andrewsiah.com/blogs/show-your-work/</guid>
       <description>A post on why showing our work on the internet is the most powerful form of networking</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andrewsiah.com/blogs/columbia_crowded/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewsiah.com/blogs/columbia_crowded/</guid>
-      <description></description>
     </item>
     
   </channel>
