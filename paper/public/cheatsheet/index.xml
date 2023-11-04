@@ -5,24 +5,22 @@
     <link>https://andrewsiah.com/cheatsheet/</link>
     <description>Recent content in Cheatsheets on Andrew Siah</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewsiah.com/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andrewsiah.com/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pipenv Cheatsheet</title>
       <link>https://andrewsiah.com/cheatsheet/pipenv/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewsiah.com/cheatsheet/pipenv/</guid>
       <description>Pipenv Cheat Sheet by Brad Traversy Install pipenv pip3 install pipenv Activate pipenv shell Check version of Python python --version Check path python &amp;gt;&amp;gt;&amp;gt; import sys &amp;gt;&amp;gt;&amp;gt; sys.executable quit() Install a package pipenv install camelcase Check local packages pipenv lock -r Uninstall a package pipenv uninstall camelcase Install a dev package pipenv install nose --dev Install from requirements.txt pipenv install -r ./requirements.txt Check security vulnerabilities pipenv check Check dependency graph pipenv graph Ignore pipfile pipenv install --ignore-pipfile Set lockfile - before deployment pipenv lock Exiting the virtualenv exit Run with pipenv pipenv run * </description>
     </item>
-    
     <item>
       <title></title>
       <link>https://andrewsiah.com/cheatsheet/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://andrewsiah.com/cheatsheet/markdown/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
