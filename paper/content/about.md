@@ -15,23 +15,16 @@ disableShare: true
 
 ## Me in 2 min
 
-I'm Andrew, a Malaysian Physics undergrad on a dual-degree programme between [Columbia in NY](https://www.columbia.edu/) and [CityU in HK](https://www.cityu.edu.hk/). 
-
-I've never been the smartest or the most talented in anything. I'm just curious and ask questions.
-
-This is my favourite emoji :man_shrugging:. 
-
-I love documenting my learnings on Youtube and here. 
-
-I did a gap year from 2020 - Sept 2021, while documenting my autodidacy on Youtube and here.
+I'm Andrew. 
+I work as a Quant at Abra, doing research on algorithmic trading.
+I do AI research on LLM and RL on nights and weekends, here are some of my [published work at NeurIPS and ICLR](https://scholar.google.com/citations?user=-fqcGxoAAAAJ&hl=en). 
 
 I'll love to make new friends, please reach out to me for anything! (hi@andrewsiah.com)
 
-## Hiring me?
+## Collaborating
 
 If you're here in a professional capacity, here is my 
-- [Resume](https://drive.google.com/file/d/1jjkGtmfwERZX9HE9O9yYvsUqQ1xYF1uT/view)
-- [Curriculum Vitae](https://sites.google.com/view/andrewsiahcv/home)
+- [Curriculum Vitae](https://www.overleaf.com/read/nfgkqbckmnhr#d9e799)
 
 ## My List of Lists
 - [Now](/lists/now)
@@ -40,4 +33,3 @@ If you're here in a professional capacity, here is my
 - [Startup Ideas](https://www.notion.so/andrewsiah/Projects-af4d8e74c116437d898df97b749a34cd)
 - [Thank You](/lists/thankyou/)
 - [Habits](/lists/habits/)
-- [Failures](https://sites.google.com/view/failurecv/home)
